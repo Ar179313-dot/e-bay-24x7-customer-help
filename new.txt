@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:37:56	4859/4859	---MCZ	200	added ('OK')	text/html	etag:W/%2267bdeca9-12fb%22	https://e-bay-24x7-expert-help-line.b-cdn.net/	/storage/emulated/0/HTTrack/Websites/eBay/e-bay-24x7-expert-help-line.b-cdn.net/index.html	(from )
+22:37:56	5190/5190	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://e-bay-24x7-expert-help-line.b-cdn.net/robots.txt		(from )
